@@ -1,0 +1,6 @@
+name: GoodMorning
+main: testproject.goodmorning.GoodMorning
+author: Srsuders
+version: 0.1
+commands:
+  guten:

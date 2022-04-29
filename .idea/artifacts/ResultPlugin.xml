@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ResultPlugin">
+    <output-path>$USER_HOME$/Documents/Coding/Servers/Test-Server 1/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="GoodMorning.jar">
+        <element id="module-output" name="GoodMorning" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/plugin.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>
